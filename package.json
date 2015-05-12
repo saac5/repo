@@ -1,0 +1,14 @@
+{
+  "name":"holamundo",
+  "node":"0.6.12",
+  "author":"node",
+
+  "scripts": {
+  	"start": "node app.js"
+  },
+  
+  "engines": {
+  	"node": "0.10.x",
+	"npm": "1.2.x"
+  }
+}
